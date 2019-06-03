@@ -32,7 +32,7 @@ My current ideas is to make each section modular for people to a contribute in, 
 
 > I want to invite diversity and representation in design, research links, and development, and to enable invite small incremental patches that include opinions, concerns and compassion, from the wider (not just dev-centric) network.
 
-I also acknowledge that there may be SSB users from outside my personal SSB gossip network that might want a say and to work together that's why I'm making this github link. Since SSB is decentralised in nature, crafting a website that represents this project/platform it shall be a creative challenge.   
+I also acknowledge that there may be SSB users from outside my personal SSB gossip network that might want a say and to work together that's why I'm making this github link. Since SSB is decentralised in nature, crafting a website that represents this project/platform, shall be a creative challenge.   
 
 I hope to try experiment in open collaboration and active listening. SSB has a special place in my heart and I hope to be able to be active in it's growth and transformation.
 
