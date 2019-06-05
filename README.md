@@ -4,13 +4,15 @@
 
 ### context
 
-We're refreshing the look and language of [ssb.nz](ssb.nz) from a dev-centric git-books look to a more engaging and user friendly design. We've kind of known the current site has been put offish for non-devs for awhile.
+We're refreshing the look and language of [ssb.nz](ssb.nz) from a dev-centric git-books look to a more engaging and user friendly design. We've kind of known the current site has been put offish for non-developers for awhile.
 
 ![scuttle site currently](./images/scuttlebutt_1.0.png)
 
 There is the post in ssb for context here: `%90cpJesddE8aullfGxLR70nCRWE7i2F1gkuwZNujRnc=.sha256`
 
 ### Current design draft
+
+> [figma link](https://www.figma.com/file/cncbZdFKTpOEbKYGPjkTczVc/scuttlebutt)
 
 ![scuttle butt website draft](./images/site_draft.png)
 
