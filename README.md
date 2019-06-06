@@ -4,7 +4,7 @@
 
 ### context
 
-We're refreshing the look and language of [ssb.nz](ssb.nz) from a dev-centric git-books look to a more engaging and user friendly design. We've kind of known the current site has been put offish for non-developers for awhile.
+We're refreshing the look and language of [ssb.nz](ssb.nz) from a developer-centric layout and language with git-books, to a more engaging and user friendly site. We've kind of known the current main face of scuttle butt has been put offish for non-developers and hard to navigate for new interested folks for awhile. Though once you're on it, it's fun and fairly intuitive. The new site should reflect that!
 
 ![scuttle site currently](./images/scuttlebutt_1.0.png)
 
