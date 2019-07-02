@@ -13,7 +13,7 @@ Mostly the gist is:
 
 - our target for launching the new site is JULY 11TH 2019
 - do lil patches of code and design contributions, designs below as guides
-- organisation of different working bee groups/pair programming will be posted on gitlab. Go there! 
+- organising of different working bee groups/pair programming will be posted on gitlab. Go there!
 
 ### context
 
