@@ -2,11 +2,30 @@
 
 > with accessibility, inclusivity, and diversity in mind.
 
+### update
+
+The repo for development is here ==> https://gitlab.com/marylychee/ssb-website-2.0
+Votes within scuttle butters decided upon diversifying our git repository responsibilities in light of being aware of tech monopolies and such, especially after watching [The economics of open source by C J Silverio](https://www.youtube.com/watch?v=MO8hZlgK5zc).
+
+I encourage you to follow the thread on scuttlebutt here `%90cpJesddE8aullfGxLR70nCRWE7i2F1gkuwZNujRnc=.sha256`.
+
+Mostly the gist is:
+
+- our target for launching the new site is JULY 11TH 2019
+- do lil patches of code and design contributions, designs below as guides
+- organisation of different working bee groups/pair programming will be posted on gitlab. Go there! 
+
 ### context
 
-We're refreshing the look and language of [ssb.nz](ssb.nz)  and we're focusing on making sure both the *process* and *end result* is totally inclusive for a wider diversity of people. Read more here
+We're refreshing the look and language of [ssb.nz](ssb.nz) from a developer-centric layout and language with git-books, to a more engaging and user friendly site. We've kind of known the current main face of scuttle butt has been put offish for non-developers and hard to navigate for new interested folks for awhile. Though once you're on it, it's fun and fairly intuitive. The new site should reflect that!
+
+![scuttle site currently](./images/scuttlebutt_1.0.png)
+
+There is the post in ssb for context here: `%90cpJesddE8aullfGxLR70nCRWE7i2F1gkuwZNujRnc=.sha256`
 
 ### Current design draft
+
+> [figma link](https://www.figma.com/file/cncbZdFKTpOEbKYGPjkTczVc/scuttlebutt)
 
 ![scuttle butt website draft](./images/site_draft.png)
 
